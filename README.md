@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔮 I'm Ghira! <br>🔧 Currently working on personal passion projects that will hopefully see the light of day in the future<br>🌱 Learning and expanding my knowledge on some javascript frameworks at the moment <br>🤓 I translate japanese content into english in my free time
+🔮 I'm Ghira! <br>🔧 Currently working on personal passion projects that will hopefully see the light of day<br>🌱 Learning and expanding my knowledge on some javascript frameworks at the moment <br>🤓 I translate japanese content into english in my free time
 
 
 # 💻 Tech Stack:
